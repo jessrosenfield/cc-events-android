@@ -24,3 +24,16 @@ proguard/
 
 # Log Files
 *.log
+
+# Windows thumbnail db
+Thumbs.db
+
+# Android Studio etc
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+
+# OSX files
+.DS_Store
+
+# Local configuration file (sdk path, etc)
+local.properties

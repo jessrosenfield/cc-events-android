@@ -11,4 +11,19 @@ Jessica and Fendy's awesome mobile app for Ashley Rose in OEC! Wooooooooo! Now l
 
 4. Configure web app to pass data to mobile app
 
-5. Uhhhh. Profit, maybe? 
+5. Uhhhh. Profit, maybe?
+
+
+So what all features do we want/need in this app? Let's find out!
+
+1. Calendar... duh
+
+2. Event details page
+
+3. List of events
+
+4. Contact page?
+
+5. Add event to personal calendar
+
+6. Filter events? Whenever that works on the web app...
